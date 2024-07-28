@@ -67,4 +67,4 @@ You can customize various parameters of the simulation by modifying the config.j
 
 ## File Structure
 
-- `main.py`: The main script containing all the logic and functions.
+- `main.ipynb`: The main script containing all the logic and functions.
