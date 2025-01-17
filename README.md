@@ -19,7 +19,7 @@ Welcome to the Dynamic Cityscape and Celestial Bodies Simulation repository. Thi
     ```
 
 - Clone the Repository:
-git clone https://github.com/yourusername/dynamic-cityscape-celestial-bodies.git
+git clone https://github.com/SankethElalli/dynamic-cityscape-celestial-bodies.git
 cd dynamic-cityscape-celestial-bodies
 
 - Install Dependencies:
